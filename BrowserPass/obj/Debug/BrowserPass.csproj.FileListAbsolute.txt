@@ -1,0 +1,13 @@
+C:\Users\ZoomX\Documents\GitHub\ChromePasswordDecrypt\BrowserPass\bin\Debug\ChromePasswordDecrypt.exe
+C:\Users\ZoomX\Documents\GitHub\ChromePasswordDecrypt\BrowserPass\bin\Debug\ChromePasswordDecrypt.pdb
+C:\Users\ZoomX\Documents\GitHub\ChromePasswordDecrypt\BrowserPass\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ZoomX\Documents\GitHub\ChromePasswordDecrypt\BrowserPass\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ZoomX\Documents\GitHub\ChromePasswordDecrypt\BrowserPass\bin\Debug\System.Data.SQLite.dll
+C:\Users\ZoomX\Documents\GitHub\ChromePasswordDecrypt\BrowserPass\bin\Debug\System.Runtime.dll
+C:\Users\ZoomX\Documents\GitHub\ChromePasswordDecrypt\BrowserPass\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ZoomX\Documents\GitHub\ChromePasswordDecrypt\BrowserPass\bin\Debug\System.Data.SQLite.xml
+C:\Users\ZoomX\Documents\GitHub\ChromePasswordDecrypt\BrowserPass\obj\Debug\BrowserPass.csprojAssemblyReference.cache
+C:\Users\ZoomX\Documents\GitHub\ChromePasswordDecrypt\BrowserPass\obj\Debug\BrowserPass.csproj.CoreCompileInputs.cache
+C:\Users\ZoomX\Documents\GitHub\ChromePasswordDecrypt\BrowserPass\obj\Debug\BrowserPass.csproj.CopyComplete
+C:\Users\ZoomX\Documents\GitHub\ChromePasswordDecrypt\BrowserPass\obj\Debug\ChromePasswordDecrypt.exe
+C:\Users\ZoomX\Documents\GitHub\ChromePasswordDecrypt\BrowserPass\obj\Debug\ChromePasswordDecrypt.pdb
